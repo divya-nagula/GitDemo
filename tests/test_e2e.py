@@ -45,4 +45,6 @@ class TestOne(BaseClass):
         log.info(successText)
         log.info(successText+" "+successText)
         log.info(successText + "_" + successText)
+        log.info(successText + "-" + successText)
+        log.info(successText + "*" + successText)
         self.driver.close()
