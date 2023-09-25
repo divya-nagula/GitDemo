@@ -43,4 +43,6 @@ class TestOne(BaseClass):
         successText = confirmPage.alertSuccess().text
         assert "Success! Thank you!" in successText
         log.info(successText)
+        log.info(successText+" "+successText)
+        log.info(successText + "_" + successText)
         self.driver.close()
