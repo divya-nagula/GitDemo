@@ -1,0 +1,168 @@
+2023-09-18 23:40:31,495 :INFO : test_e2e :Getting all card titles
+2023-09-18 23:40:31,539 :INFO : test_e2e :iphone X
+2023-09-18 23:40:31,550 :INFO : test_e2e :Samsung Note 8
+2023-09-18 23:40:31,564 :INFO : test_e2e :Nokia Edge
+2023-09-18 23:40:31,575 :INFO : test_e2e :Blackberry
+2023-09-18 23:40:31,933 :INFO : test_e2e :Entering country name as ind
+2023-09-18 23:40:37,386 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-18 23:42:57,037 :INFO : test_formSubmission :Sending data to application
+2023-09-18 23:42:57,681 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:42:57,820 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:42:58,292 :INFO : test_formSubmission :Sending data to application
+2023-09-18 23:42:58,292 :INFO : test_formSubmission :Sending data to application
+2023-09-18 23:42:58,909 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:42:58,909 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:42:59,006 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:42:59,006 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:43:08,854 :INFO : test_e2e :Getting all card titles
+2023-09-18 23:43:08,905 :INFO : test_e2e :iphone X
+2023-09-18 23:43:08,918 :INFO : test_e2e :Samsung Note 8
+2023-09-18 23:43:08,931 :INFO : test_e2e :Nokia Edge
+2023-09-18 23:43:08,942 :INFO : test_e2e :Blackberry
+2023-09-18 23:43:09,490 :INFO : test_e2e :Entering country name as ind
+2023-09-18 23:43:15,261 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-18 23:46:31,238 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-18 23:46:31,883 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:46:32,206 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:46:32,491 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-18 23:46:32,491 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-18 23:46:33,073 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:46:33,073 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:46:33,169 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:46:33,169 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:57:38,432 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-18 23:57:39,068 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:57:39,319 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:57:39,621 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-18 23:57:39,621 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-18 23:57:40,167 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:57:40,167 :INFO : test_formSubmission :Submitting form..
+2023-09-18 23:57:40,263 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-18 23:57:40,263 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-19 00:00:23,907 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-19 00:00:24,585 :INFO : test_formSubmission :Submitting form..
+2023-09-19 00:00:24,853 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-19 00:00:25,265 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-19 00:00:25,265 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-19 00:00:25,864 :INFO : test_formSubmission :Submitting form..
+2023-09-19 00:00:25,864 :INFO : test_formSubmission :Submitting form..
+2023-09-19 00:00:25,962 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-19 00:00:25,962 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:13:41,272 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-21 14:13:42,689 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:13:43,163 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:13:43,818 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:13:43,818 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:13:44,504 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:13:44,504 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:13:44,593 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:13:44,593 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:13:58,277 :INFO : test_e2e :Getting all card titles
+2023-09-21 14:13:58,468 :INFO : test_e2e :iphone X
+2023-09-21 14:13:58,484 :INFO : test_e2e :Samsung Note 8
+2023-09-21 14:13:58,502 :INFO : test_e2e :Nokia Edge
+2023-09-21 14:13:58,518 :INFO : test_e2e :Blackberry
+2023-09-21 14:13:59,595 :INFO : test_e2e :Entering country name as ind
+2023-09-21 14:14:05,549 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-21 14:25:15,859 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-21 14:25:17,918 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:25:18,577 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:25:19,346 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:25:19,346 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:25:20,128 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:25:20,128 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:25:20,366 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:25:20,366 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:25:46,105 :INFO : test_e2e :Getting all card titles
+2023-09-21 14:25:46,464 :INFO : test_e2e :iphone X
+2023-09-21 14:25:46,930 :INFO : test_e2e :Samsung Note 8
+2023-09-21 14:25:46,935 :INFO : test_e2e :Nokia Edge
+2023-09-21 14:25:46,940 :INFO : test_e2e :Blackberry
+2023-09-21 14:25:48,864 :INFO : test_e2e :Entering country name as ind
+2023-09-21 14:25:55,504 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-21 14:52:38,332 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-21 14:52:43,232 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:52:43,232 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:54:30,256 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-21 14:54:32,691 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:54:32,927 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:54:33,262 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:54:33,262 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 14:54:33,792 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:54:33,792 :INFO : test_formSubmission :Submitting form..
+2023-09-21 14:54:34,022 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:54:34,022 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 14:54:42,893 :INFO : test_e2e :Getting all card titles
+2023-09-21 14:54:43,169 :INFO : test_e2e :iphone X
+2023-09-21 14:54:43,180 :INFO : test_e2e :Samsung Note 8
+2023-09-21 14:54:43,180 :INFO : test_e2e :Nokia Edge
+2023-09-21 14:54:43,215 :INFO : test_e2e :Blackberry
+2023-09-21 14:54:43,552 :INFO : test_e2e :Entering country name as ind
+2023-09-21 14:54:49,129 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-21 15:04:30,843 :INFO : test_formSubmission :Sending data to application: Name is Divya Nagula
+2023-09-21 15:04:32,184 :INFO : test_formSubmission :Submitting form..
+2023-09-21 15:04:32,570 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 15:04:33,034 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 15:04:33,034 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-21 15:04:33,564 :INFO : test_formSubmission :Submitting form..
+2023-09-21 15:04:33,564 :INFO : test_formSubmission :Submitting form..
+2023-09-21 15:04:33,653 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 15:04:33,653 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-21 15:04:42,335 :INFO : test_e2e :Getting all card titles
+2023-09-21 15:04:42,374 :INFO : test_e2e :iphone X
+2023-09-21 15:04:42,385 :INFO : test_e2e :Samsung Note 8
+2023-09-21 15:04:42,396 :INFO : test_e2e :Nokia Edge
+2023-09-21 15:04:42,408 :INFO : test_e2e :Blackberry
+2023-09-21 15:04:42,705 :INFO : test_e2e :Entering country name as ind
+2023-09-21 15:04:48,157 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-09-22 00:14:56,121 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-22 00:15:45,790 :INFO : test_formSubmission :Sending data to application: Name is Bhargavi Golla
+2023-09-22 00:15:47,992 :INFO : test_formSubmission :Submitting form..
+2023-09-22 00:15:48,631 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-22 00:18:37,419 :INFO : test_formSubmission :Sending data to application: Name is Bittu
+2023-09-22 00:18:45,451 :INFO : test_formSubmission :Submitting form..
+2023-09-22 00:18:46,404 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-22 00:20:49,067 :INFO : test_formSubmission :Sending data to application: Name is Bittu
+2023-09-22 00:20:49,939 :INFO : test_formSubmission :Submitting form..
+2023-09-22 00:20:50,748 :INFO : test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2023-09-22 00:21:02,450 :INFO : test_e2e :Getting all card titles
+2023-09-22 00:21:02,493 :INFO : test_e2e :iphone X
+2023-09-22 00:21:02,505 :INFO : test_e2e :Samsung Note 8
+2023-09-22 00:21:02,518 :INFO : test_e2e :Nokia Edge
+2023-09-22 00:21:02,530 :INFO : test_e2e :Blackberry
+2023-09-22 00:21:03,189 :INFO : test_e2e :Entering country name as ind
+2023-09-22 00:21:09,304 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
