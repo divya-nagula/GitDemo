@@ -27,7 +27,7 @@ class TestHomePage(BaseClass):
         log.info("Submitting form..")
         # homePage.selectRadio().click()
         homePage.submitForm().click()
-        log.info("Form submitted!")
+        log.info("Form submitted! lalala...")
         message = homePage.alertSuccess().text
         log.info(message)
         assert "Success" in message
